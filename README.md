@@ -6,7 +6,7 @@
 ##### https://www.youtube.com/watch?v=vV91FT0EMik&t=7s
 ##### https://www.youtube.com/watch?v=vDHxVcS7io4&t=1s
 
-<a href="www.linkedin.com/in/jordan-connor-smith"><img src="https://www.cnm.edu/depts/mco/marketing/images/linkedin-logo.png/linkedin-logo.png" /></a>
+<a href="www.linkedin.com/in/jordan-connor-smith"><img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" /></a>
 
 <img src="https://cdn.shopify.com/s/files/1/2283/6815/collections/Code-Platoon-logo-color2.png?v=1574257183" width="200px" />
 <img src="https://www.codewars.com/users/jsmith96/badges/small" />
