@@ -2,9 +2,6 @@
 
 #### Software Engineer | U.S. Coast Guard Veteran | Musician
 
-#### Recent Projects:
-##### https://www.youtube.com/watch?v=vV91FT0EMik&t=7s
-##### https://www.youtube.com/watch?v=vDHxVcS7io4&t=1s
 
 <a href="www.linkedin.com/in/jordan-connor-smith"><img src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/displaying-19-gallery-images-for-linkedin-logo-png-25.png"  width="100px" /></a>
 
